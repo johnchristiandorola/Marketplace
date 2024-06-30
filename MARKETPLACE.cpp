@@ -12,7 +12,7 @@ struct User {
     int money;
 };
 
-//Structure to represent an item in the marketplace
+//Structure to represent an item in the marketplacee
 struct Item {
     int itemId; // Unique identifier for each item
     char name[50];
